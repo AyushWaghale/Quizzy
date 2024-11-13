@@ -1,2 +1,2 @@
-# Quizzy
-Quiz Web App
+# Quizzey
+WT mini project
